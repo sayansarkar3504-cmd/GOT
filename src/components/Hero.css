@@ -1,0 +1,178 @@
+.hero {
+  position: relative;
+  display: grid;
+  min-height: max(720px, 100svh);
+  place-items: center;
+  overflow: hidden;
+  isolation: isolate;
+  background: #080909;
+}
+
+.hero__video,
+.hero__shade,
+.hero__grain {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero__video {
+  z-index: -3;
+  object-fit: cover;
+  object-position: center 45%;
+  filter: saturate(.72) brightness(.74);
+}
+
+.hero__shade {
+  z-index: -2;
+  background:
+    linear-gradient(90deg, rgba(5, 6, 6, .78), rgba(7, 7, 7, .23) 53%, rgba(5, 6, 6, .65)),
+    linear-gradient(0deg, #090a09 0%, transparent 58%, rgba(5, 6, 6, .5));
+}
+
+.hero__grain {
+  z-index: -1;
+  pointer-events: none;
+  opacity: .13;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.82' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.24'/%3E%3C/svg%3E");
+}
+
+.hero__frame {
+  position: absolute;
+  inset: 26px;
+  border: 1px solid rgba(201, 168, 76, .25);
+  pointer-events: none;
+}
+
+.hero__frame::before,
+.hero__frame::after {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  content: '';
+  border-color: var(--gold);
+}
+
+.hero__frame::before {
+  top: -1px;
+  left: -1px;
+  border-top: 1px solid;
+  border-left: 1px solid;
+}
+
+.hero__frame::after {
+  right: -1px;
+  bottom: -1px;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.hero__content {
+  width: min(100% - 48px, 1040px);
+  padding: 130px 0 100px;
+  text-align: center;
+}
+
+.eyebrow {
+  color: var(--gold);
+  font-family: var(--font-sans);
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .34em;
+  text-transform: uppercase;
+}
+
+.hero__title {
+  display: block;
+  margin: 24px 0 20px;
+  color: var(--parchment);
+  font-family: var(--font-display);
+  font-size: clamp(2.35rem, 6vw, 6.1rem);
+  font-weight: 500;
+  letter-spacing: .015em;
+  line-height: 1.05;
+  text-shadow: 0 6px 45px rgba(0, 0, 0, .72);
+}
+
+.hero__line {
+  display: block;
+  white-space: nowrap;
+}
+
+.hero__line--gold {
+  color: var(--gold-light);
+  font-size: .78em;
+  letter-spacing: .13em;
+}
+
+.hero__tagline {
+  color: rgba(245, 230, 200, .82);
+  font-family: var(--font-serif);
+  font-size: clamp(1.05rem, 2vw, 1.4rem);
+  font-style: italic;
+  letter-spacing: .04em;
+}
+
+.hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 38px;
+}
+
+.hero__scroll {
+  position: absolute;
+  bottom: 36px;
+  left: 50%;
+  display: grid;
+  justify-items: center;
+  gap: 12px;
+  color: rgba(245, 230, 200, .66);
+  font-family: var(--font-sans);
+  font-size: .6rem;
+  letter-spacing: .2em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transform: translateX(-50%);
+}
+
+.hero__scroll i {
+  width: 1px;
+  height: 34px;
+  background: linear-gradient(var(--gold), transparent);
+  animation: scroll-pulse 1.8s ease-in-out infinite;
+}
+
+.hero__edition {
+  position: absolute;
+  right: 48px;
+  bottom: 38px;
+  color: rgba(245, 230, 200, .42);
+  font-family: var(--font-sans);
+  font-size: .58rem;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+}
+
+@keyframes scroll-pulse {
+  0%, 100% { opacity: .4; transform: scaleY(.65); transform-origin: top; }
+  50% { opacity: 1; transform: scaleY(1); transform-origin: top; }
+}
+
+@media (max-width: 640px) {
+  .hero { min-height: max(680px, 100svh); }
+  .hero__video { object-position: 57% center; }
+  .hero__frame { inset: 12px; }
+  .hero__content { width: min(100% - 40px, 520px); padding-top: 90px; }
+  .hero__title { font-size: clamp(1.55rem, 8.5vw, 2.4rem); }
+  .hero__line--gold { letter-spacing: .09em; }
+  .hero__actions { display: grid; width: min(100%, 320px); margin: 32px auto 0; }
+  .hero__edition { display: none; }
+  .hero__scroll { bottom: 25px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero__scroll i { animation: none; }
+}
