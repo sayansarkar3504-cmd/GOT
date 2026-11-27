@@ -1,502 +1,495 @@
-# 🐉 The Chronicles of Westeros
+👨‍💻 SAYAN SARKAR | SOFTWARE ENGINEER
 
-### Explore the Seven Kingdoms. Discover Their Legends. Shape Your Destiny.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:203A43,100:4776E6&height=240&section=header&text=SAYAN%20SARKAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=B.Tech+Computer+Science+%26+Engineering+Student;Full+Stack+Developer+%7C+MERN+Stack;Java+%26+Python+Developer;Generative+AI+%26+Multi-Agent+Systems+Enthusiast;Building+Interactive+Web+Experiences;Turning+Ideas+Into+Real-World+Applications;Build.+Learn.+Innovate.+Repeat." alt="Typing Animation"/>
+
+🚀 B.Tech Computer Science & Engineering Student
+
+Passionate about Software Engineering, Full-Stack Development, Artificial Intelligence and Building Innovative Applications.
+
+<br/>
+
+<a href="https://sayan-sarkar-portfolio-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sayan-sarkar-770a432b4">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sayansarkar3504@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sayansarkar3504-cmd&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sayansarkar3504-cmd?label=Followers&style=for-the-badge&color=0A66C2"/>
+<img src="https://img.shields.io/github/stars/sayansarkar3504-cmd?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow&label=Total%20Stars"/>
+
+</div>
+
+👋 About Me
+
+Hello! I'm Sayan Sarkar, a Computer Science and Engineering student who loves exploring technology and building meaningful software applications.
+
+I'm passionate about combining software engineering, modern web technologies and artificial intelligence to develop interactive, intelligent and practical solutions.
+
+I enjoy working across different areas of computer science, from designing responsive frontend experiences and developing backend systems to experimenting with Generative AI and multi-agent architectures.
+
+💻 Full-Stack Web Development (MERN)
+☕ Java & Object-Oriented Programming
+🐍 Python & Backend Development
+🤖 Artificial Intelligence & Machine Learning
+🧠 Generative AI, Agentic AI & Multi-Agent Systems
+🎮 Interactive Web Applications & Browser Games
+⚡ Data Structures & Algorithms
+🗄️ Database Management & Software Architecture
+"Don't just learn technology. Build something meaningful with it."
+
+Build → Learn → Solve → Innovate → Repeat.
+
+🚀 Featured Projects
+
+A collection of applications and experiments that represent my development journey, technical interests and passion for solving real-world problems.
+
+🐉 01. The Chronicles of Westeros
+Explore the Seven Kingdoms. Discover Their Legends. Shape Your Destiny.
+
+<kbd>React 19</kbd> <kbd>Vite 8</kbd> <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>MongoDB</kbd>
+
+<img src="https://img.shields.io/badge/CINEMATIC_WEB_EXPERIENCE-4776E6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERACTIVE_GAMES-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FULL_STACK_APPLICATION-16A34A?style=for-the-badge"/>
+
+The Chronicles of Westeros is a cinematic, interactive and game-inspired fan experience based on the universe of Game of Thrones and A Song of Ice and Fire.
+
+It transforms the legendary world of Westeros into an interactive digital experience featuring immersive storytelling, world exploration, historical timelines, noble houses, characters, mythical creatures, iconic battles and playable mini-games.
+
+✨ Key Features
+🏰 Interactive exploration of the Seven Kingdoms.
+🛡️ Great Houses and their identities.
+👑 Character Explorer and information panels.
+📜 Historical Timeline of Westeros.
+🐉 Mythical Creatures and Dragons.
+⚔️ Iconic Battles and legendary events.
+🎬 Cinematic hero section and immersive visuals.
+🎮 Interactive Games Hall.
+🧠 Lore Quiz and Sigil Memory.
+🐲 Canvas-based Dragon Flight.
+👑 Kingdom Strategy and Turn-Based Battles.
+🔍 Character Clues and House Personality Quiz.
+⚙️ Backend Capabilities
+User registration and authentication.
+JWT-based account authentication.
+Favorites management.
+Quiz history and score tracking.
+Leaderboard functionality.
+MongoDB-based persistent storage.
+🛠️ Technology Stack
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,nodejs,express,mongodb&theme=dark"/>
+
+Additional Technologies: Canvas API • JWT • Mongoose • Vitest • ESLint • REST API
+
+🔗 Project Links
+
+<a href="https://github.com/sayansarkar3504-cmd/GOT">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sayansarkar3504-cmd/GOT/issues">
+<img src="https://img.shields.io/badge/EXPLORE_ISSUES-2563EB?style=for-the-badge&logo=github"/>
+</a>
+
+Note: This is an unofficial fan-made educational and entertainment project. Advanced multiplayer, verified scoring and other roadmap features are not yet implemented.
+
+🤖 02. EcoChain-AI
+Multi-Agent AI for Sustainable Supply Chain Management
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-8E75B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MULTI_AGENT_SYSTEM-2563EB?style=for-the-badge"/>
+
+An intelligent multi-agent AI system designed to support sustainable supply chain management, vendor evaluation and automated compliance analysis.
+
+Core Capabilities
+AI-powered invoice analysis.
+Vendor risk evaluation.
+Automated compliance analysis.
+Sensitive data protection.
+Intelligent business insights.
+Multi-agent AI workflows.
+Technology Stack
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP_Server-202020?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security_Guardrails-16A34A?style=flat-square"/>
+
+<a href="https://github.com/sayansarkar3504-cmd/EcoChain-AI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github"/>
+</a>
+
+🤟 03. SIGNOVA
+Indian Sign Language-Based Inclusive Smart Education System
+
+<img src="https://img.shields.io/badge/SMART_INDIA_HACKATHON_2026-FF9933?style=for-the-badge"/>
+
+An inclusive educational platform developed as an SIH 2026 project to help bridge the communication gap between teachers and deaf or hard-of-hearing students.
+
+Core Features
+Speech-to-text communication.
+Text-to-ISL gloss conversion.
+Sign card-based learning.
+Accessible educational interaction.
+Inclusive communication support.
+Technology Stack
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,python,fastapi&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Indian_Sign_Language-16A34A?style=flat-square"/>
+
+<a href="https://github.com/sayansarkar3504-cmd/smart-India-hackathon-project-SIGNOVA-">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github"/>
+</a>
+
+🎓 04. Student Record Management System
+Java Swing & MySQL-Based Desktop Application
+
+A feature-rich desktop application built to simplify academic student record management using Java 21, Swing, JDBC and MySQL.
+
+Key Features
+Automatic MySQL database creation.
+Automatic table and index initialization.
+Complete Student CRUD Operations.
+Advanced Search and Filtering.
+Interactive Table Sorting.
+Administrator Authentication.
+Real-Time Dashboard Analytics.
+Modern FlatLaf GUI.
+Database Connection Diagnostics.
+Input Validation and Data Integrity.
+Architecture
+
+Layered architecture with separate:
+
+UI → Service → DAO → Model → Database → Utility
+
+Technology Stack
+
+<img src="https://skillicons.dev/icons?i=java,mysql,maven&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Java_Swing-GUI-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/FlatLaf-Modern_UI-0A9396?style=flat-square"/>
+<img src="https://img.shields.io/badge/JDBC-Database_Connectivity-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/JUnit_5-Testing-25A162?style=flat-square"/>
+
+Testing Results
+Testing	Result
+Unit Tests	29/29 Passed
+Integration Tests	9/9 Passed
+Total Tests	38/38 Passed
+
+<a href="https://github.com/sayansarkar3504-cmd/Student-Record-Management-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github"/>
+</a>
+
+🌐 05. Personal Portfolio Website
+My Digital Developer Identity
+
+A modern portfolio website showcasing my technical skills, development journey, projects and professional profile.
+
+Technology Stack
+
+<img src="https://skillicons.dev/icons?i=react,typescript,html,css,vercel&theme=dark"/>
+
+<a href="https://sayan-sarkar-portfolio-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/sayansarkar3504-cmd/my-portfolio">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+🏦 06. Online Banking Management System
+Python & Django-Based Banking Application
+
+Developed during my internship at ARDENT COMPUTECH PVT LTD.
+
+A backend-focused banking management application created to gain practical experience with database management, backend architecture and real-world software development.
+
+Key Learning Areas
+
+Backend Development.
+Database Management.
+Application Architecture.
+Software Debugging.
+Practical Development Workflows.
+
+Technology Stack
+
+<img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite&theme=dark"/>
+
+🛠️ Technical Skills & Technologies
+💻 Programming Languages
 
 <p align="center">
-  <strong>A Cinematic • Interactive • Game-Inspired Fantasy Experience</strong>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark"/>
 </p>
+
+🌐 Frontend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite&theme=dark"/>
 </p>
+
+⚙️ Backend Development
 
 <p align="center">
-  <a href="https://github.com/sayansarkar3504-cmd/GOT">Repository</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-games-hall">Games Hall</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-roadmap">Roadmap</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark"/>
 </p>
 
----
-
-## 🌌 About The Project
-
-**The Chronicles of Westeros** is a responsive, interactive, fan-made web experience inspired by the fictional universe of *A Song of Ice and Fire* and *Game of Thrones*.
-
-Built using React and Vite, this project brings the legendary world of Westeros to life through cinematic visuals, immersive storytelling, interactive exploration, historical events, noble houses, mythical creatures, iconic battles, and a collection of playable mini-games.
-
-From the frozen lands beyond the Wall to the political heart of King's Landing, explore the stories, mysteries, rivalries, and legends that shaped the Seven Kingdoms.
-
-This is more than a traditional fan website. It combines world exploration, interactive storytelling, browser-based games, and an optional backend into one connected experience.
-
-> 🐺 Winter Is Coming. Your story begins in Westeros.
-
----
-
-## ✨ Features
-
-### 🏰 Explore the World of Westeros
-
-Discover the history, geography, politics, and legends of the Seven Kingdoms.
-
-| Feature | Description |
-|---|---|
-| 🎬 Cinematic Hero | Atmospheric video background and immersive introduction. |
-| 🌍 Realm Introduction | Discover the world, its history, and its lore. |
-| 🗺️ Region Guide | Explore the different regions of Westeros. |
-| 🛡️ Great Houses | Discover noble houses, their identities, and legacies. |
-| 👑 Character Explorer | Interactive character cards and information panels. |
-| 📜 Historical Timeline | Navigate important events throughout Westeros history. |
-| 🐉 Mythical Creatures | Discover dragons and other legendary creatures. |
-| ⚔️ Iconic Battles | Revisit memorable battles from the history of Westeros. |
-| 🪑 The Iron Throne | An illustrated feature celebrating the ultimate symbol of power. |
-
-### 🎮 The Games Hall
-
-Enter the Games Hall and test your knowledge, memory, and strategic thinking.
-
-| Game Mode | Description |
-|---|---|
-| 👑 Kingdom Strategy | Make strategic decisions and experience kingdom management. |
-| 🐉 Dragon Flight | Fly a dragon through an interactive canvas-based game. |
-| 🔍 Character Clues | Identify legendary characters through clues. |
-| 🛡️ House Personality Quiz | Discover which Great House matches your personality. |
-| ⚔️ Turn-Based Battles | Experience strategic turn-based combat. |
-| 📚 Lore Quiz | Test your knowledge of Westeros history and lore. |
-| 🧠 Sigil Memory | Challenge your memory using Great House sigils. |
-
-Each game offers a different way to interact with the world of Westeros.
-
-### 👤 User Accounts & Backend
-
-An optional Express.js API provides backend functionality for user accounts and game-related data.
-
-**Available backend capabilities:**
-
-- User registration and authentication.
-- JWT-based account authentication.
-- Favorites management.
-- Quiz history.
-- Score tracking.
-- Leaderboards.
-
-The backend uses MongoDB for persistent data storage.
-
-### 📱 Responsive & Interactive Experience
-
-- Responsive desktop, tablet, and mobile layouts.
-- Interactive UI components.
-- Immersive visual elements.
-- Video-based hero experience.
-- Smooth navigation and engaging animations.
-- Canvas-powered gameplay.
-- Organized and reusable React components.
-
----
-
-## 🛠️ Technology Stack
-
-The project uses modern frontend and backend technologies.
-
-### Frontend
-
-| Technology | Purpose |
-|---|---|
-| React | Component-based user interface |
-| Vite | Fast development and build tooling |
-| JavaScript | Application logic and interactions |
-| HTML5 | Semantic page structure |
-| CSS3 | Responsive styling and visual design |
-| Canvas API | Interactive browser-based gameplay |
-
-### Backend
-
-| Technology | Purpose |
-|---|---|
-| Node.js | JavaScript runtime |
-| Express.js | REST API development |
-| MongoDB | Database |
-| JWT | Authentication |
-| Mongoose | MongoDB object modeling |
-
-### Development & Testing
-
-- npm
-- ESLint
-- Vitest
-- API Tests
-- Git & GitHub
-
----
-
-## 🏗️ Project Architecture
-
-The project follows a structured frontend and backend architecture.
-
-```text
-GOT/
-│
-├── backend/
-│   ├── src/
-│   │   ├── middleware/
-│   │   ├── models/
-│   │   ├── app.js
-│   │   └── server.js
-│   │
-│   ├── test/
-│   ├── .env.example
-│   └── package.json
-│
-├── public/
-│   ├── images/
-│   ├── video/
-│   ├── icons.svg
-│   └── favicon.svg
-│
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── data/
-│   ├── services/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-│
-├── index.html
-├── package.json
-├── vite.config.js
-├── eslint.config.js
-└── README.md
-```
-
----
-
-## 🚀 Installation
-
-Follow these steps to run the project locally.
-
-### Prerequisites
-
-Make sure you have installed:
-
-- [Node.js (LTS)](https://nodejs.org/)
-- npm
-- Git
-- [MongoDB](https://www.mongodb.com/) (only if you want to run the backend)
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/sayansarkar3504-cmd/GOT.git
-```
-
-### 2. Navigate to the Project
-
-```bash
-cd GOT
-```
-
-### 3. Install Frontend Dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the Development Server
-
-```bash
-npm run dev
-```
-
-Open your browser:
-
-```text
-http://localhost:5173
-```
-
-Your local Westeros experience is now running!
-
----
-
-## 🧪 Testing & Production Build
-
-Run these commands from the project root.
-
-### Run Tests
-
-```bash
-npm test
-```
-
-### Check Code Quality
-
-```bash
-npm run lint
-```
-
-### Create Production Build
-
-```bash
-npm run build
-```
-
-The production-ready frontend output is generated in the `dist/` directory.
-
----
-
-## ⚙️ Optional Backend Setup
-
-The project includes an optional Express API for user accounts, favorites, quiz history, scores, and leaderboards.
-
-### 1. Navigate to the Backend
-
-Open a new terminal:
-
-```bash
-cd backend
-```
-
-### 2. Install Backend Dependencies
-
-```bash
-npm install
-```
-
-### 3. Configure Environment Variables
-
-Create a `.env` file from the example configuration.
-
-**Windows Command Prompt:**
-
-```cmd
-copy .env.example .env
-```
-
-**PowerShell:**
-
-```powershell
-Copy-Item .env.example .env
-```
-
-Configure `backend/.env`:
-
-```env
-PORT=4000
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_random_secret_of_at_least_32_characters
-FRONTEND_ORIGIN=http://localhost:5173
-```
-
-**Security Notes:**
-
-- Use a MongoDB database that you control.
-- Generate a strong, random JWT secret of at least 32 characters.
-- Never commit your actual `.env` file.
-- Never expose database credentials or authentication secrets publicly.
-
-### 4. Start the Backend Server
-
-From the `backend/` directory:
-
-```bash
-npm run dev
-```
-
-The backend API runs at:
-
-```text
-http://localhost:4000
-```
-
-Check the API health endpoint:
-
-```text
-http://localhost:4000/api/health
-```
-
-The health endpoint returns HTTP 503 until MongoDB is connected.
-
-### 5. Start the Frontend
-
-Open another terminal at the project root:
-
-```bash
-npm run dev
-```
-
-The Vite development server proxies `/api` requests to:
-
-```text
-http://127.0.0.1:4000
-```
-
-For other deployment configurations, configure `VITE_API_BASE_URL` and `FRONTEND_ORIGIN` appropriately.
-
-### 6. Run API Tests
-
-From the backend directory:
-
-```bash
-npm run test:api
-```
-
----
-
-## 🔐 Security & Implementation Notes
-
-- Authentication uses JWT-based account sessions.
-- Keep environment variables private.
-- Use a MongoDB database that you control.
-- Configure frontend origins appropriately.
-- Game scores submitted by signed-in clients are currently user-reported and are not independently verified against cheating.
-- Never assume client-submitted scores or rewards are independently verified.
-
----
-
-## 🔮 Roadmap & Future Improvements
-
-The Chronicles of Westeros is designed to grow into a richer interactive fantasy experience.
-
-Here are some planned improvements:
-
-### 🎮 Advanced Gameplay
-- Additional strategy and survival game modes.
-- Expanded kingdom management.
-- Dragon collection and training.
-- More interactive battle mechanics.
-- Daily and weekly quests.
-- Achievement and reward systems.
-
-### 🌍 World Exploration
-- More interactive regions.
-- Expanded historical events.
-- Detailed character profiles.
-- Character relationship explorer.
-- Enhanced Great House information.
-- Additional mythical creatures.
-
-### 👥 Community & Multiplayer
-- Real-time multiplayer gameplay.
-- Player profiles and social features.
-- Multiplayer rooms.
-- Guild and alliance systems.
-- Competitive tournaments.
-- Live leaderboard updates.
-
-### ⚙️ Backend & Infrastructure
-- Verified scoring and anti-cheat mechanisms.
-- Expanded account functionality.
-- Enhanced leaderboard security.
-- Cloud deployment.
-- Database integration improvements.
-- Performance optimization.
-
-*These are future development ideas, not claims about currently implemented functionality.*
-
----
-
-## 🧪 Current Limitations
-
-Transparency matters. The following limitations are currently known:
-
-- Socket.IO multiplayer and live updates are not included.
-- Scores submitted by signed-in clients are user-reported and are not independently verified against cheating.
-- Cloud database provisioning is not included.
-- Character panels currently use the available house-emblem artwork because dedicated character portrait files are not present in the project assets.
-- Some planned advanced gameplay and social features remain future improvements.
-
----
-
-## 🖼️ Project Preview
-
-Add screenshots or GIFs of your actual running website here to showcase its design and functionality.
-
-Recommended screenshots:
-
-| Preview | Suggested Content |
-|---|---|
-| Home | Cinematic hero section |
-| Explore | Interactive Westeros regions |
-| Great Houses | House cards and emblems |
-| Characters | Character information panels |
-| Timeline | Historical events |
-| Games Hall | All available mini-games |
-| Gameplay | Dragon Flight or strategy gameplay |
-| Mobile | Responsive mobile experience |
-
-Example Markdown:
-
-```markdown
-![Westeros Home Page](public/images/preview-home.png)
-```
-
-Replace the example path with an actual screenshot file added to your repository.
-
----
-
-## 🤝 Contributing
-
-Suggestions, bug reports, and improvements are welcome.
-
-If you want to contribute:
-
-1. Fork this repository.
-2. Create a new feature branch.
-3. Make your changes.
-4. Test your implementation.
-5. Submit a Pull Request.
-
-```bash
-git checkout -b feature/your-feature-name
-git add .
-git commit -m "Add: your feature description"
-git push origin feature/your-feature-name
-```
-
----
-
-## ⚖️ Disclaimer
-
-The Chronicles of Westeros is an unofficial, fan-made project created for educational and entertainment purposes.
-
-It is inspired by the fictional universe of *A Song of Ice and Fire* and *Game of Thrones*.
-
-All related trademarks, characters, names, artwork, and intellectual property belong to their respective owners.
-
-This project is not affiliated with, endorsed by, or officially connected to HBO, Warner Bros., or George R. R. Martin.
-
----
-
-## 👨‍💻 Author
+🗄️ Databases
 
 <p align="center">
-  <strong>Sayan Sarkar</strong>
-  <br/>
-  Computer Science Engineering Student | Frontend & Full-Stack Developer
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,oracle&theme=dark"/>
 </p>
+
+🤖 AI & Machine Learning
 
 <p align="center">
-  <a href="https://github.com/sayansarkar3504-cmd">
-    <img src="https://img.shields.io/badge/GitHub-sayansarkar3504--cmd-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow&theme=dark"/>
 </p>
 
-**Project Repository:** [The Chronicles of Westeros](https://github.com/sayansarkar3504-cmd/GOT)
-
----
+☁️ Cloud & Developer Tools
 
 <p align="center">
-  <strong>🐺 Winter Is Coming.</strong>
-  <br/>
-  Explore the realm. Learn its history. Play your part in the legend.
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,gcp,docker,postman,vscode&theme=dark"/>
 </p>
 
+🧠 Other Technologies
+
 <p align="center">
-  <sub>Built with passion, creativity, and code by Sayan Sarkar.</sub>
+<img src="https://img.shields.io/badge/Java_Swing-Desktop_Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-Database_Connectivity-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maven-Build_Tool-C71A36?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_ADK-Agent_Development-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-Backend_Integration-16A34A?style=for-the-badge"/>
 </p>
+
+🧠 Currently Learning & Exploring
+Technology	Learning Focus
+🤖 Generative AI	LLMs & AI Applications
+🧠 Agentic AI	Multi-Agent Systems & MCP
+📊 Machine Learning	Intelligent Applications
+🌐 Advanced React	Next.js & TypeScript
+🏗️ System Design	Scalable Architecture
+☁️ Cloud Computing	AWS & Google Cloud
+⚡ Data Structures & Algorithms	Problem Solving
+🏆 Achievements & Recognition
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+🥇 6th Rank
+
+TECHPHORIA
+
+Competitive Programming / Coding Competition
+
+</td>
+<td align="center" width="50%">
+
+🚀 Smart India Hackathon 2026
+
+SIGNOVA
+
+Inclusive Smart Education System
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+🏅 Multiple Quiz Competition Wins
+
+Recognized in multiple school-level quiz competitions.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+💼 Internship Experience
+ARDENT COMPUTECH PVT LTD
+
+Role: Banking Management System Software Developer
+
+Project: Online Banking Management System
+
+Technology Stack: Python • Django • SQL
+
+Experience & Responsibilities
+Worked on backend application development.
+Gained practical database management experience.
+Explored backend architecture and application workflows.
+Practiced debugging and problem-solving techniques.
+Learned real-world software development practices.
+Developed collaboration and technical communication skills.
+📊 GitHub Statistics & Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayansarkar3504-cmd&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Sayan's%20GitHub%20Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayansarkar3504-cmd&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayansarkar3504-cmd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
+</div>
+
+⭐ Featured Repository Cards
+
+<div align="center">
+
+<a href="https://github.com/sayansarkar3504-cmd/GOT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=GOT&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<a href="https://github.com/sayansarkar3504-cmd/EcoChain-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=EcoChain-AI&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<a href="https://github.com/sayansarkar3504-cmd/smart-India-hackathon-project-SIGNOVA-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=smart-India-hackathon-project-SIGNOVA-&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<a href="https://github.com/sayansarkar3504-cmd/Student-Record-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=Student-Record-Management-System&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<a href="https://github.com/sayansarkar3504-cmd/my-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=my-portfolio&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+</div>
+
+🌟 Repository Stars & Forks
+Repository	Stars	Forks
+🐉 GOT	!Stars	!Forks
+🤖 EcoChain-AI	!Stars	!Forks
+🤟 SIGNOVA	!Stars	!Forks
+🎓 Student Management	!Stars	!Forks
+🌐 Portfolio	!Stars	!Forks
+🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sayansarkar3504-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%"/>
+
+</div>
+
+📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayansarkar3504-cmd&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&area_color=353b6e&hide_border=true&custom_title=Sayan's%20Contribution%20Activity" width="100%"/>
+
+</div>
+
+🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sayansarkar3504-cmd/sayansarkar3504-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+🎯 What's Next?
+Build impactful Full-Stack applications.
+Develop more advanced Java applications.
+Explore Generative AI and Agentic AI.
+Build practical Machine Learning projects.
+Improve Data Structures & Algorithms.
+Learn System Design fundamentals.
+Explore Cloud Computing.
+Contribute to Open Source.
+Build production-ready software.
+Expand interactive projects and game experiences.
+🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sayan-sarkar-770a432b4">
+<img src="https://img.shields.io/badge/LinkedIn-Sayan_Sarkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/sayansarkar3504">
+<img src="https://img.shields.io/badge/Kaggle-sayansarkar3504-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sayan.sarkar_raj">
+<img src="https://img.shields.io/badge/Instagram-sayan.sarkar__raj-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/c/sayansarkar8729">
+<img src="https://img.shields.io/badge/YouTube-Sayan_Sarkar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:sayansarkar3504@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://sayan-sarkar-portfolio-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://sayan-sarkar-portfolio-alpha.vercel.app/resume.pdf">
+<img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-16A34A?style=for-the-badge"/>
+</a>
+
+</div>
+
+💡 My Developer Philosophy
+
+<div align="center">
+
+"Don't just learn technology. Build something meaningful with it."
+
+I believe great developers are built through curiosity, consistency, experimentation and problem-solving.
+
+BUILD → BREAK → DEBUG → IMPROVE → REPEAT
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Dream+Big.+Code+Smart.;Stay+Curious.+Keep+Building.;Innovation+Starts+With+An+Idea.;Every+Commit+Counts.;The+Best+Is+Yet+To+Come." alt="Developer Philosophy"/>
+
+</div>
+
+<div align="center">
+
+⭐ Thanks for Visiting My GitHub Profile!
+
+Let's connect, collaborate and build something amazing together.
+
+🐉 Explore. 🤖 Innovate. 💻 Build. 🚀 Grow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:203A43,100:0F2027&height=170&section=footer&animation=twinkling" width="100%"/>
+
+Made with ❤️, creativity and code by Sayan Sarkar.
+
+</div>
+
+<!-- END OF PROFILE README -->
